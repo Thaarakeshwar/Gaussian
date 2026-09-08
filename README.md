@@ -25,7 +25,7 @@ Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: Thaarakeshwar
 Register Number: 212225040466
 ```
-```
+```python
 import os
 os.environ["OPENBLAS_NUM_THREADS"] = "1"
 
